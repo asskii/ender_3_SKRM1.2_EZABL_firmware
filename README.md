@@ -1,4 +1,4 @@
-### This firmware is not yet configured for the board. It is a work in progess and should not be used.
+# This firmware is not yet configured for the board. It is a work in progess and should not be used.
 
 # Ender-3 4.2.2 firmware
 
